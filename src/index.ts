@@ -8,8 +8,8 @@ import {
   MODEL_NAME,
   SYSTEM_PROMPT,
   tools,
-} from './model'
-import { codeInterpret } from './codeInterpreter'
+} from '../model'
+import { codeInterpret } from '../codeInterpreter'
 
 const anthropic = new Anthropic()
 
