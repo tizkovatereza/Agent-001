@@ -1,3 +1,5 @@
+// Code interpreter Hello world example in ts
+
 import * as fs from 'fs'
 
 import 'dotenv/config'
